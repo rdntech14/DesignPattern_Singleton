@@ -1,7 +1,7 @@
 Singleton Pattern in Java
 =====
 
-# What is Singleton Pattern
+# What is Singleton Pattern:
 
 Singleton pattern is one of the simplest design patterns in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
 
@@ -15,7 +15,7 @@ This pattern involves a single class which is responsible to create an object wh
 
 3) Singleton pattern is used for logging, drivers objects, caching and thread pool.
 
-# To implement Singleton pattern
+# To implement Singleton pattern:
 
 1) Private constructor to restrict instantiation of the class from other classes.
 
