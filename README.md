@@ -1,7 +1,7 @@
-Singleton Pattern in Java
+Singleton Design Pattern in Java
 =====
 
-# What is Singleton Pattern
+# What is Singleton Design Pattern
 
 It is a creational pattern.
 
